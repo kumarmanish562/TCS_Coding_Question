@@ -1,0 +1,26 @@
+## 💻 WHAT IS PROGRAMMING?
+
+🧠 **Programming** is a sequence of **precise instructions** that we give to a **compiler** to perform a specific task.
+
+🗣️ **English or Hindi** language is used for **person-to-person communication**, whereas a **Programming Language** is used for **person-to-computer communication**.
+
+⚙️ We need to give **clear and exact instructions** because a **computer is not an intelligent device** — it will follow exactly what you tell it to do, **without any modification**.
+
+---
+
+## 🌐 WHICH PROGRAMMING LANGUAGE ARE WE GOING TO FOLLOW?
+
+🚀 It’s never like a particular programming language is *good* or *bad* — every language has its own **purpose and role**.
+
+📱 **Java** → Used for **Android Development**  
+🤖 **Python** → Used for **Artificial Intelligence & Machine Learning**  
+🌍 **JavaScript & PHP** → Used for **Browser and Web Development**  
+
+💽 **C / C++** → Used for developing **Operating Systems** like Windows, Android, Linux, macOS, iOS, and Chrome OS
+❤️ The **Kernel** (the heart of every Operating System) is written in **C/C++**.  
+So basically, **C and C++ are the heart of Computer Science** — no Operating System can be made without them.
+
+✨ **C++** is actually a **superset of C**, and almost all modern programming languages are based on C.  
+Hence, **C is the foundation of all Programming Languages**.
+
+🎯 From a **placement and interview** point of view, **C language** is the **most important and compulsory** to learn!
