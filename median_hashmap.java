@@ -26,3 +26,7 @@ public class median_hashmap {
         System.out.println("Median: " + median);
     }
 }
+
+// output:
+// This is a placeholder for median_hashmap.java
+// Median: 3.0
