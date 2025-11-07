@@ -23,3 +23,6 @@ public class increasing_order {
         System.out.println("Sorted array in increasing order: " + arr);
     }
 } 
+
+//output:
+// Sorted array in increasing order: [1, 2, 3, 5, 8]
